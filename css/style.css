@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+ul {
+    color: white;
+    margin: 0;
+    list-style-type: circle;
+    text-indent: -5px;
+    padding: 0;
+    text-align: center;
+}
+
+.head_image img {
+    float: left;
+    width: 325px;
+    height: 400px;
+    padding: 10px 20px;
+}
+
+.band_pic img {
+    float: right;
+    width: 325px;
+    height: 400px;
+    padding: 10px 20px;
+}
+
+.wssu_logo img {
+    float: left;
+    width: 30%;
+    height: 400px;
+    padding: 10px 20px;
+}
+
+.ncat_logo img {
+    float: right;
+    width: 30%;
+    height: 400px;
+    padding: 10px 20px;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: red;
+    color: black;
+}
+
+.intro {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.va {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.home {
+    background-color: #f1f1f1;
+    color: black;
+}
