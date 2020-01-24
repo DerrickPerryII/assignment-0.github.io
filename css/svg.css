@@ -1,0 +1,45 @@
+body {
+    background: deepskyblue;
+    margin: 0;
+    padding: 0;
+}
+
+#house {
+    fill: honeydew;
+    stroke: black;
+    stroke-width: 3;
+    stroke-opacity: 0.9;
+}
+
+#grass {
+    fill: darkgreen;
+    stroke-opacity: 0.9;
+}
+
+#sun {
+    fill: yellow;
+}
+
+#roof {
+    fill: brown;
+    stroke: black;
+    stroke-width: 3;
+    stroke-opacity: 0.9;
+}
+
+#door {
+    fill: red;
+    stroke: black;
+    stroke-opacity: 0.9;
+}
+
+.sun-rays {
+    stroke: yellow;
+    stroke-width: 4;
+}
+
+.windows {
+    fill: lightblue;
+    stroke: black;
+    opacity: 0.4;
+}
