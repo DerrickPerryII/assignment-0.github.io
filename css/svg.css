@@ -38,6 +38,23 @@ body {
     stroke-width: 4;
 }
 
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: red;
+    color: black;
+}
+
+#index {
+    background-color: #aaa;
+    color: black;
+    text-align: center;
+}
+
 .windows {
     fill: lightblue;
     stroke: black;
