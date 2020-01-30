@@ -25,3 +25,19 @@ line {
     font-weight: bold;
     text-anchor: end;
 }
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: #1e99e7;
+    color: black;
+}
+
+#index {
+    background-color: #aaa;
+    color: black;
+}
